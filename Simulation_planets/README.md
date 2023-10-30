@@ -1,6 +1,6 @@
 # Симуляція планет
 
-[![Python 3.11](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![Static Badge](https://img.shields.io/badge/https:/PyGame-violet)](https://www.pygame.org/news)
 ![Simulation_planets](program/fon/SP.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&size=30&pause=1000&color=00F771&center=true&vCenter=true&width=500&lines=Simulation+of+planets)](https://git.io/typing-svg)
